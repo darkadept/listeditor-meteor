@@ -2,5 +2,5 @@
   "name": "listeditor",
   "description": "Addon to Iron Router that provides a simple data editor with list of items",
   "author": "Mike Kornelson",
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
